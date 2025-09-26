@@ -1,5 +1,9 @@
 mcp[cli]
+fastapi
 uvicorn
-gitpython
 pytest
+gitpython
 python-dotenv
+pre-commit
+black
+flake8
