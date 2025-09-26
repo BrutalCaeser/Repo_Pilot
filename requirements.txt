@@ -1,0 +1,5 @@
+mcp[cli]
+uvicorn
+gitpython
+pytest
+python-dotenv
