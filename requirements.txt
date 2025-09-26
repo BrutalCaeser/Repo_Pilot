@@ -1,9 +1,0 @@
-mcp[cli]
-fastapi
-uvicorn
-pytest
-gitpython
-python-dotenv
-pre-commit
-black
-flake8
